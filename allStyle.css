@@ -1,0 +1,40 @@
+﻿body {
+	margin: 11;
+}
+.main {
+    width: 500px;
+   // padding: 20px;
+   // position: fixed;
+   //background: grey;
+    left: 50%;
+    top: 200px;
+   // margin-left: -270px;
+	text-align: center;
+	display:block;
+}
+.addTask {
+    width: 500px;
+    position: fixed;
+ // background: grey;
+    border-radius: 5px;
+ // left:50%;
+    top: 100px;
+ // bottom: 0;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+    display:none;
+}
+
+.about {
+   
+      width: 500px;
+   // padding: 20px;
+   // position: fixed;
+   //background: grey;
+    left: 50%;
+    top: 200px;
+   // margin-left: -270px;
+	text-align: center;
+	display:none;
+}
